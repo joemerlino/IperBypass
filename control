@@ -1,0 +1,9 @@
+Package: com.joemerlino.iperbypass
+Name: IperBypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bypass Iper jailbreak check.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
